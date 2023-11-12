@@ -1,0 +1,100 @@
+{
+  "Island": {
+    "rows": 100,
+    "columns": 20
+  },
+  "Woolf": {
+    "weight_kg": 50,
+    "max_quantity_per_cell": 30,
+    "movement_speed_per_turn": 3,
+    "food_required_kg": 8
+  },
+  "Horse": {
+    "weight_kg": 400,
+    "max_quantity_per_cell": 20,
+    "movement_speed_per_turn": 4,
+    "food_required_kg": 60
+  },
+  "Boa": {
+    "weight_kg": 15,
+    "max_quantity_per_cell": 30,
+    "movement_speed_per_turn": 1,
+    "food_required_kg": 3
+  },
+  "Fox": {
+    "weight_kg": 8,
+    "max_quantity_per_cell": 30,
+    "movement_speed_per_turn": 2,
+    "food_required_kg": 2
+  },
+  "Bear": {
+    "weight_kg": 500,
+    "max_quantity_per_cell": 5,
+    "movement_speed_per_turn": 2,
+    "food_required_kg": 80
+  },
+  "Eagle": {
+    "weight_kg": 6,
+    "max_quantity_per_cell": 20,
+    "movement_speed_per_turn": 3,
+    "food_required_kg": 1
+  },
+  "Deer": {
+    "weight_kg": 300,
+    "max_quantity_per_cell": 20,
+    "movement_speed_per_turn": 4,
+    "food_required_kg": 50
+  },
+  "Rabbit": {
+  "weight_kg": 2,
+  "max_quantity_per_cell": 150,
+  "movement_speed_per_turn": 2,
+  "food_required_kg": 0.45
+},
+  "Mouse": {
+  "weight_kg": 0.05,
+  "max_quantity_per_cell": 500,
+  "movement_speed_per_turn": 1,
+  "food_required_kg": 0.01
+},
+  "Goat": {
+  "weight_kg": 60,
+  "max_quantity_per_cell": 140,
+  "movement_speed_per_turn": 3,
+  "food_required_kg": 10
+},
+  "Sheep": {
+    "weight_kg": 70,
+    "max_quantity_per_cell": 140,
+    "movement_speed_per_turn": 3,
+    "food_required_kg": 15
+  },
+  "Boar": {
+    "weight_kg": 400,
+    "max_quantity_per_cell": 50,
+    "movement_speed_per_turn": 2,
+    "food_required_kg": 50
+  },
+  "Buffalo": {
+    "weight_kg": 700,
+    "max_quantity_per_cell": 10,
+    "movement_speed_per_turn": 3,
+    "food_required_kg": 100
+  },
+  "Duck": {
+    "weight_kg": 1,
+    "max_quantity_per_cell": 200,
+    "movement_speed_per_turn": 4,
+    "food_required_kg": 0.15
+  },
+  "Caterpillar": {
+    "weight_kg": 0.01,
+    "max_quantity_per_cell": 1000,
+    "movement_speed_per_turn": 0,
+    "food_required_kg": 0
+  },
+  "Herb": {
+    "weight_kg": 1,
+    "max_quantity_per_cell": 200
+  }
+}
